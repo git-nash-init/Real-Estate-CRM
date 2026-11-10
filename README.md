@@ -1,5 +1,7 @@
 # RealEstateOS — White-Label Real Estate Developer CRM + ERP (Client Demo Prototype)
 
+![RealEstateOS screenshot](docs/screenshots/real-estate-crm.png)
+
 **Demo Tenant:** `NEXORA DEVELOPERS`  
 **Projects Included:**
 1. **Nexora Heights** — Dombivli East — Residential — 96 Units (`RERA: P51700099101 [DEMO]`)
